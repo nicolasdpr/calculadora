@@ -1,0 +1,8 @@
+body {
+    text-align: center;
+}
+
+.container {
+    display: inline-block; /* Para centralizar o bloco */
+    text-align: left; /* Reverter para alinhamento do texto interno */
+}
